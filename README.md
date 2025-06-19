@@ -14,8 +14,10 @@ The implementation is based on the [GAPBS (Graph Algorithms for Parallel and Dis
     - GNU Make 4.2.1+
     - g++ 9.4+
 2. Build and Run
-    - `python main.py`
-3. Output
+    ```
+    python main.py
+    ```
+4. Output
     - The output will be saved in the project directory.
     - Benchmark results
         - PageRank
