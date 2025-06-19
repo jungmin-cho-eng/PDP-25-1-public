@@ -34,7 +34,7 @@ The implementation is based on the [GAPBS (Graph Algorithms for Parallel and Dis
 
 ## Codes I Implemented
 - `main.py`: Main script to run the experiments.
-- `src/pr_pull_sync.cc`: PageRank pull synchronization implementation.
-- `src/pr_push_sync.cc`: PageRank push synchronization implementation.
+- `src/pr_pull_sync.cc`: PageRank pull synchronous implementation.
+- `src/pr_push_sync.cc`: PageRank push synchronous implementation.
 - `src/bfs_td.cc`: Breadth-first search top-down implementation.
 - `src/bfs_bu.cc`: Breadth-first search bottom-up implementation.
