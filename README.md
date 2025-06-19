@@ -8,10 +8,11 @@ The implementation is based on the [GAPBS (Graph Algorithms for Parallel and Dis
 
 ## How to run
 1. Requirements
+    - Ubuntu 20.04+
     - Python 3.8+
-        - Matplotlib
-    - make
-    - g++
+        - Matplotlib 3.10.0+
+    - GNU Make 4.2.1+
+    - g++ 9.4+
 2. Build and Run
     - `python main.py`
 3. Output
